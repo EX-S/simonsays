@@ -1,0 +1,133 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -6.183
+TNS   : -613.345
+
+Type  : Slow 1100mV 85C Model Setup 'ratedivider:r0|q[0]'
+Slack : -3.092
+TNS   : -98.502
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -0.110
+TNS   : -0.196
+
+Type  : Slow 1100mV 85C Model Hold 'ratedivider:r0|q[0]'
+Slack : 0.682
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -559.800
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'ratedivider:r0|q[0]'
+Slack : -0.480
+TNS   : -36.354
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.188
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -5.967
+TNS   : -583.249
+
+Type  : Slow 1100mV 0C Model Setup 'ratedivider:r0|q[0]'
+Slack : -3.241
+TNS   : -110.973
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.258
+TNS   : -0.956
+
+Type  : Slow 1100mV 0C Model Hold 'ratedivider:r0|q[0]'
+Slack : 0.671
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -543.761
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'ratedivider:r0|q[0]'
+Slack : -0.546
+TNS   : -38.683
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.191
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -3.781
+TNS   : -255.472
+
+Type  : Fast 1100mV 85C Model Setup 'ratedivider:r0|q[0]'
+Slack : -1.372
+TNS   : -41.887
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'ratedivider:r0|q[0]'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -509.739
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'ratedivider:r0|q[0]'
+Slack : -0.270
+TNS   : -11.083
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 17.854
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -3.229
+TNS   : -207.534
+
+Type  : Fast 1100mV 0C Model Setup 'ratedivider:r0|q[0]'
+Slack : -1.273
+TNS   : -45.911
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'ratedivider:r0|q[0]'
+Slack : 0.316
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -536.923
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'ratedivider:r0|q[0]'
+Slack : -0.235
+TNS   : -9.426
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 17.804
+TNS   : 0.000
+
+------------------------------------------------------------
